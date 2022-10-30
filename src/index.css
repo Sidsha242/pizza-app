@@ -1,0 +1,27 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+
+.container-fluid {
+    margin-top: 1%;
+}
+
+#navbar {
+    margin-left: 70%;
+}
+
+.nav-item {
+    margin-left: 8%;
+    font-size: 1.5vw;
+}
+
+.navbar a:hover {
+    font-weight: 700;
+    color: white;
+}
+
+.nav-link {
+    color: white;
+}
