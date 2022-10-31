@@ -2,7 +2,14 @@ import React from 'react'
 
 function Menu() {
     return (
-        <div>Menu</div>
+        <section className='menu'>
+            <div>Menu</div>
+            <div className='sort'>
+                <div>Veg</div>
+                <div>Non-Veg</div>
+                <div>Sides</div>
+            </div>
+        </section>
     )
 }
 
